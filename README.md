@@ -1,1 +1,6 @@
 # GIOITHIEU.github.io
+<nav>
+    <a href="index.html">Trang Chủ</a> |
+    <a href="about.html">Giới Thiệu</a> |
+    <a href="contact.html">Liên Hệ</a>
+</nav>
